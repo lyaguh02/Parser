@@ -1,0 +1,78 @@
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\bin\Debug\NewsAppAdaptive.exe.config
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\bin\Debug\NewsAppAdaptive.exe
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\bin\Debug\NewsAppAdaptive.pdb
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\obj\Debug\NewsAppAdaptive.csproj.AssemblyReference.cache
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\obj\Debug\MainWindow.g.cs
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\obj\Debug\App.g.cs
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\obj\Debug\NewsAppAdaptive_MarkupCompile.cache
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\obj\Debug\NewsAppAdaptive_MarkupCompile.lref
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\obj\Debug\MainWindow.baml
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\obj\Debug\NewsAppAdaptive.g.resources
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\obj\Debug\NewsAppAdaptive.Properties.Resources.resources
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\obj\Debug\NewsAppAdaptive.csproj.GenerateResource.cache
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\obj\Debug\NewsAppAdaptive.csproj.CoreCompileInputs.cache
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\obj\Debug\NewsAppAdaptive.csproj.CopyComplete
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\obj\Debug\NewsAppAdaptive.exe
+C:\Users\Bel04ka\source\repos\NewsAppAdaptive\obj\Debug\NewsAppAdaptive.pdb
+C:\Users\Bel04ka\source\repos\Novosti\bin\Debug\NewsAppAdaptive.exe.config
+C:\Users\Bel04ka\source\repos\Novosti\bin\Debug\NewsAppAdaptive.exe
+C:\Users\Bel04ka\source\repos\Novosti\bin\Debug\NewsAppAdaptive.pdb
+C:\Users\Bel04ka\source\repos\Novosti\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Bel04ka\source\repos\Novosti\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Bel04ka\source\repos\Novosti\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Bel04ka\source\repos\Novosti\obj\Debug\NewsAppAdaptive.csproj.AssemblyReference.cache
+C:\Users\Bel04ka\source\repos\Novosti\obj\Debug\MainWindow.g.cs
+C:\Users\Bel04ka\source\repos\Novosti\obj\Debug\App.g.cs
+C:\Users\Bel04ka\source\repos\Novosti\obj\Debug\NewsAppAdaptive_MarkupCompile.cache
+C:\Users\Bel04ka\source\repos\Novosti\obj\Debug\NewsAppAdaptive_MarkupCompile.lref
+C:\Users\Bel04ka\source\repos\Novosti\obj\Debug\MainWindow.baml
+C:\Users\Bel04ka\source\repos\Novosti\obj\Debug\NewsAppAdaptive.g.resources
+C:\Users\Bel04ka\source\repos\Novosti\obj\Debug\NewsAppAdaptive.Properties.Resources.resources
+C:\Users\Bel04ka\source\repos\Novosti\obj\Debug\NewsAppAdaptive.csproj.GenerateResource.cache
+C:\Users\Bel04ka\source\repos\Novosti\obj\Debug\NewsAppAdaptive.csproj.CoreCompileInputs.cache
+C:\Users\Bel04ka\source\repos\Novosti\obj\Debug\NewsAppAdaptive.csproj.CopyComplete
+C:\Users\Bel04ka\source\repos\Novosti\obj\Debug\NewsAppAdaptive.exe
+C:\Users\Bel04ka\source\repos\Novosti\obj\Debug\NewsAppAdaptive.pdb
+I:\парсер\bin\Debug\NewsAppAdaptive.exe.config
+I:\парсер\bin\Debug\NewsAppAdaptive.exe
+I:\парсер\bin\Debug\NewsAppAdaptive.pdb
+I:\парсер\bin\Debug\HtmlAgilityPack.dll
+I:\парсер\bin\Debug\HtmlAgilityPack.pdb
+I:\парсер\bin\Debug\HtmlAgilityPack.xml
+I:\парсер\obj\Debug\NewsAppAdaptive.csproj.AssemblyReference.cache
+I:\парсер\obj\Debug\NewsAppAdaptive.csproj.SuggestedBindingRedirects.cache
+I:\парсер\obj\Debug\MainWindow.g.cs
+I:\парсер\obj\Debug\App.g.cs
+I:\парсер\obj\Debug\NewsAppAdaptive_MarkupCompile.cache
+I:\парсер\obj\Debug\NewsAppAdaptive_MarkupCompile.lref
+I:\парсер\obj\Debug\MainWindow.baml
+I:\парсер\obj\Debug\NewsAppAdaptive.g.resources
+I:\парсер\obj\Debug\NewsAppAdaptive.Properties.Resources.resources
+I:\парсер\obj\Debug\NewsAppAdaptive.csproj.GenerateResource.cache
+I:\парсер\obj\Debug\NewsAppAdaptive.csproj.CoreCompileInputs.cache
+I:\парсер\obj\Debug\NewsAppAdaptive.csproj.CopyComplete
+I:\парсер\obj\Debug\NewsAppAdaptive.exe
+I:\парсер\obj\Debug\NewsAppAdaptive.pdb
+I:\проекты по с#\парсер\bin\Debug\NewsAppAdaptive.exe.config
+I:\проекты по с#\парсер\bin\Debug\NewsAppAdaptive.exe
+I:\проекты по с#\парсер\bin\Debug\NewsAppAdaptive.pdb
+I:\проекты по с#\парсер\bin\Debug\HtmlAgilityPack.dll
+I:\проекты по с#\парсер\bin\Debug\HtmlAgilityPack.pdb
+I:\проекты по с#\парсер\bin\Debug\HtmlAgilityPack.xml
+I:\проекты по с#\парсер\obj\Debug\NewsAppAdaptive.csproj.AssemblyReference.cache
+I:\проекты по с#\парсер\obj\Debug\NewsAppAdaptive.csproj.SuggestedBindingRedirects.cache
+I:\проекты по с#\парсер\obj\Debug\MainWindow.g.cs
+I:\проекты по с#\парсер\obj\Debug\App.g.cs
+I:\проекты по с#\парсер\obj\Debug\NewsAppAdaptive_MarkupCompile.cache
+I:\проекты по с#\парсер\obj\Debug\NewsAppAdaptive_MarkupCompile.lref
+I:\проекты по с#\парсер\obj\Debug\MainWindow.baml
+I:\проекты по с#\парсер\obj\Debug\NewsAppAdaptive.g.resources
+I:\проекты по с#\парсер\obj\Debug\NewsAppAdaptive.Properties.Resources.resources
+I:\проекты по с#\парсер\obj\Debug\NewsAppAdaptive.csproj.GenerateResource.cache
+I:\проекты по с#\парсер\obj\Debug\NewsAppAdaptive.csproj.CoreCompileInputs.cache
+I:\проекты по с#\парсер\obj\Debug\NewsAppAdaptive.csproj.CopyComplete
+I:\проекты по с#\парсер\obj\Debug\NewsAppAdaptive.exe
+I:\проекты по с#\парсер\obj\Debug\NewsAppAdaptive.pdb
